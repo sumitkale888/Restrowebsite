@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+}
+body{
+   background-image: radial-gradient(circle, #eedeac, #eedd9f, #eddd92, #ebdd84, #e8dd77, #efd775, #f5d275, #fbcc76, #ffc289, #fcbb9d, #efb8ad, #dcb8b8);
+   
+}
+
+.form{
+    background-color: rgb(227, 237, 237);
+    height: 600px;
+    width: 1000px;
+    margin-top: 60px;
+    margin-left: 255px;
+    padding-top: 20px;
+    border-radius: 20px;
+    background-image: radial-gradient(circle, #e8b7d3, #e3bee0, #ddc5ea, #d7cdf3, #d0d4fa, #d8d4fb, #dfd5fb, #e7d5fb, #fdceec, #ffcad4, #ffcbbb, #ffd1a7);
+    
+   
+}
+.f-name{
+    background-color: transparent;
+    height: 70px;
+    width: 60%;
+     
+    margin-left:210px;
+    margin-top: 20px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.f-content{
+    background-color: rgb(193, 158, 225);
+   height: 500px;
+   width: 900px;
+    margin-left: 52px;
+    margin-top: 20px;
+    
+    
+    
+    
+    
+   
+}
+
+  .d1{
+    background-color: rgb(239, 241, 240);
+    height: 90px;
+    width: 800px;
+    margin-left: 100px;
+    margin-top: 30px;
+   
+    border-radius: 30px;
+    
+
+  }
+  .t1{
+    display: flex;
+     align-items: center;
+    justify-content: space-evenly;
+    gap: 90px;
+   
+    
+
+  }
+  .t1 h2{
+    margin-left: -90px;
+    margin-top: 23px;
+  }
+  .p1{
+    width: 400px;
+    height: 50px;
+
+    margin-right: -100px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: none;
+   
+  }
+
+  footer{
+    background-color: transparent;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 260px;
+    margin-top: 20PX;
+    border-top: 1px solid black;
+
+  }
+  .bb1{
+    background-color: transparent;
+    height: 170px;
+    width: 170px;
+    border-radius: 170px;
+    background-image: url(../images/ronaldo.avif);
+    background-size: cover;
+    
+  }
+  .footer2{
+    background-color: transparent;
+    height: 30px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 230px;
+
+  }
+  .footer3{
+    background-color: transparent;
+    height: 15px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+
+  }
+
+   .footer4{
+    background-color: transparent;
+    height: 100px;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+
+  }

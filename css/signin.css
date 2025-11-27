@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+body{
+     background-image: radial-gradient(circle, #efda99, #f2df98, #f4e397, #f6e897, #f7ed96, #fae996, #fde497, #ffe098, #ffd39e, #ffc8a7, #fcbfb1, #eeb9b9);
+   
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    
+   
+  
+}
+.box{
+    background-color: rgb(232, 250, 250);
+    height: 500px;
+    width: 400px;
+  
+  text-align: center;
+  padding-top: 20px;
+  border-radius: 30px;
+  box-shadow: 7px 7px 7px rgb(112, 106, 106);
+  
+     
+}
+.sbtn{
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: rgb(126, 225, 126);
+}
+.box input{
+    height: 50px;
+    width: 290px;
+     border-radius: 15px;
+     border: none;
+     
+}
+.namefield{
+  overflow: hidden;
+    max-height: 150px;      
+    transition: max-height 0.5s ease;
+  
+}
+
+
+.btns{
+    background-color: azure;
+    height: 50px;
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 80%;
+    margin-top: 60px;
+    margin-left: 15px;
+    align-items: center;
+     border-radius: 15px
+     
+}
+.btns button{
+    background-color: green;
+    flex-basis: 46%;
+    height: 40px;
+    border-radius: 20px;
+    
+    
+    
+    
+}
+button.disable{
+    background-color: #eaeaea;
+    color: #555;
+}
